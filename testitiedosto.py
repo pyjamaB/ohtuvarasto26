@@ -1,1 +1,1 @@
-return yes
+return yesyes
