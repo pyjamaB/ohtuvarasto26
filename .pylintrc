@@ -1,4 +1,4 @@
-MASTER]
+[MASTER]
 
 ignore-paths=src/tests
 ignore=single_file_to_ignore.py
